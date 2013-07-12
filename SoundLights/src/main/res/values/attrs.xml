@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorMatrixView">
+        <attr name="rows" format="integer"/>
+        <attr name="columns" format="integer"/>
+        <attr name="initColor" format="color"/>
+    </declare-styleable>
+</resources>
